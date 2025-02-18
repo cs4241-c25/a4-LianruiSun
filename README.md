@@ -1,8 +1,6 @@
 # A4-LianruiSun 
 link: http://34.239.106.219:3000/login
 
-your hosting link e.g. http://a4-wilsonwong.glitch.me
-
 This project is a Task Management Web Application built with a React frontend and an Express backend connected to a MongoDB database. It allows users to register, log in (including GitHub OAuth login), and manage tasks with different priorities.
 
 ## Changes and Additions from Assignment #3
